@@ -24,7 +24,7 @@ Building a real-time communication system using **WebSockets**.
 
 ---
 
-### 4️⃣ [📤 TransferMe Task](https://github.com/Ab0raya/transferme)  
+### 4️⃣ [📤 TransferMe Project](https://github.com/Ab0raya/transferme)  
 Developing a secure and efficient file transfer solution (This project is not finished).  
 
 ---

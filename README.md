@@ -1,6 +1,6 @@
 # 🚀 Mohammed Aburaya's Training Tasks  
 
-👋 Hello! I'm **Mohammed Aburaya**, a proud member of **5A Class**.  
+👋 Hello! I'm **Mohammed Aburaya**, **5A Class**.  
 Here’s a collection of tasks I completed during my training until now .
 
 

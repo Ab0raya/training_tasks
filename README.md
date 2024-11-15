@@ -1,16 +1,44 @@
-# pagination_example
+# 🚀 Mohammed Aburaya's Training Tasks  
 
-A new Flutter project.
+👋 Hello! I'm **Mohammed Aburaya**, a proud member of **5A Class**.  
+Here’s a collection of tasks I completed during my training until now .
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📚 Training Tasks  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 1️⃣ [📖 Pagination Task](https://github.com/Ab0raya/training_tasks/tree/main/lib/pagination)  
+Implementing a simple **pagination system** for navigating through data.  
+
+---
+
+### 2️⃣ [📊 Chart Task](https://github.com/Ab0raya/training_tasks/tree/main/lib/chart)  
+Creating dynamic charts for visualizing data effectively.  
+
+---
+
+### 3️⃣ [🔗 Web Socket Task](https://github.com/Ab0raya/training_tasks/tree/main/lib/web_socket)  
+Building a real-time communication system using **WebSockets**.  
+
+---
+
+### 4️⃣ [📤 TransferMe Task](https://github.com/Ab0raya/transferme)  
+Developing a secure and efficient file transfer solution (This project is not finished).  
+
+---
+
+### 5️⃣ [🔒 Auth Back-End using FastAPI Task](https://github.com/Ab0raya/training_tasks/tree/main/fastApi_auth)  
+Creating an authentication system back-end using **FastAPI**.  
+
+---
+
+📩 **Connect with me:**  
+- **LinkedIn**: [Mohammed Aburaya](https://www.linkedin.com/in/mohammed-aburaya-384380224/)  
+
+Feel free to explore more of my work!  
+ 
+
+---
+Made with ❤️ by **Mohammed Aburaya**  
